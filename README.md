@@ -1,4 +1,4 @@
-# event-tap
+# event-tap ⚡️🚰
 
 subscribe to system-raised events like mouse or keyboard input messages.
 
